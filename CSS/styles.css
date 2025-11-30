@@ -1,0 +1,39 @@
+
+form#user{
+    text-align: center;
+    margin-top: -80px;
+}
+
+form#password{
+    margin-top: -5px;
+    text-align: center;
+}
+
+img{
+    margin-top: auto;
+    width: 300px;
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h3{ 
+    text-align: center;
+    margin-top: -60px;
+    color:rgb(21, 141, 21);
+    font-size: 20px;
+}
+
+.container-fluid{
+    margin-top: 50px;
+}
+body{
+    background-color: rgb(202, 245, 215);
+}
+h4{
+    color: white;
+    padding: 10px;
+    font-size: 25px;
+    text-align: left;
+    margin-top: -50px;
+}
